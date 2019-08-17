@@ -1,4 +1,5 @@
-{
+[
+  {
 "message":"Succesfull",
 "isValid":false,
 "errorMessage":null,
@@ -36,3 +37,4 @@
 {"id":30,"name":"Arunachal Pradhesh","isActive":true}
 ]
 }
+]
