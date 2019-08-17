@@ -1,0 +1,38 @@
+{
+"message":"Succesfull",
+"isValid":false,
+"errorMessage":null,
+"model":
+[
+{"id":1,"name":"Andra Pradesh","isActive":true},
+{"id":2,"name":"Arunachal Pradesh","isActive":true},
+{"id":3,"name":"Assam","isActive":true},
+{"id":4,"name":"Bihar","isActive":true},
+{"id":5,"name":"Chhattisgarh","isActive":true},
+{"id":6,"name":"Goa","isActive":true},
+{"id":7,"name":"Gujarat","isActive":true},
+{"id":8,"name":"Haryana","isActive":true},
+{"id":9,"name":"Himachal Pradesh","isActive":true},
+{"id":10,"name":"Jammu and Kashmir","isActive":true},
+{"id":11,"name":"Jharkhand","isActive":true},
+{"id":12,"name":"Karnataka","isActive":true},
+{"id":13,"name":"Kerala","isActive":true},
+{"id":14,"name":"Madya Pradesh","isActive":true},
+{"id":15,"name":"Maharashtra","isActive":true},
+{"id":16,"name":"Manipur","isActive":true},
+{"id":17,"name":"Meghalaya","isActive":true},
+{"id":18,"name":"Mizoram","isActive":true},
+{"id":19,"name":"Nagaland","isActive":true},
+{"id":20,"name":"Orissa","isActive":true},
+{"id":21,"name":"Punjab","isActive":true},
+{"id":22,"name":"Rajasthan","isActive":true},
+{"id":23,"name":"Sikkim","isActive":true},
+{"id":24,"name":"Tamil Nadu","isActive":true},
+{"id":25,"name":"Telagana","isActive":true},
+{"id":26,"name":"Tripura","isActive":true},
+{"id":27,"name":"Uttaranchal","isActive":true},
+{"id":28,"name":"Uttar Pradesh","isActive":true},
+{"id":29,"name":"West Bengal","isActive":true},
+{"id":30,"name":"Arunachal Pradhesh","isActive":true}
+]
+}
